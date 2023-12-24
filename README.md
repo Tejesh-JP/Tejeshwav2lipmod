@@ -28,7 +28,7 @@ This Google Colab notebook is a modified version of the Wav2Lip lip-syncing mode
 - **Blurred Lip Movements:** The addition of video cleaning code addresses issues related to unwanted frames or blurred lip movements in Wav2Lip + GAN.
 
 ## Feedback and Support
-If you encounter any issues or have feedback, please feel free to raise an issue on the [GitHub repository]([(https://github.com/Tejesh-JP/Tejeshwav2lipmod/)]) associated with this Colab notebook.
+If you encounter any issues or have feedback, please feel free to raise an issue on the [GitHub repository](https://github.com/Tejesh-JP/Tejeshwav2lipmod/) associated with this Colab notebook.
 
 **Note:** This Colab notebook focuses on the AI/ML challenge requirements and modifies only the executable code. Credits for the base Wav2Lip model go to Rudrabha and Justin John.
 
